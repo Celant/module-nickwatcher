@@ -1,7 +1,7 @@
 {
     "name": "wildphp/module-nickwatcher",
     "description": "Watches changes to the nickname of the bot and updates internal references.",
-    "version": "2.0.0-alpha",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Yoshi2889",
